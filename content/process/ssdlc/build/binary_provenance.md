@@ -37,5 +37,5 @@ These are very useful ways for humans to navigate identity through version contr
 
 Use labels for humans and SHAs for machines.
 
-## Further reading
-* [How to secure your software supply chain with artifact binary provenance](https://www.kosli.com/blog/how-to-secure-your-software-supply-chain-with-artifact-binary-provenance/)
+<!-- ## Further reading
+* [How to secure your software supply chain with artifact binary provenance](https://www.kosli.com/blog/how-to-secure-your-software-supply-chain-with-artifact-binary-provenance/) -->

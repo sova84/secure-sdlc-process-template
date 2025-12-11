@@ -1,13 +1,13 @@
 ---
-weight: 10
+weight: 22
 bookFlatSection: false
 bookCollapseSection: true
-title: "Software Process"
+title: "SDCL"
 ---
 
-# Introduction
+# SDLC Software Process
 
-This is the Secure Software Development Lifecycle for {{< param "company"  >}}
+<!-- This is the Secure Software Development Lifecycle for {{< param "company"  >}}
 
 {{< columns >}}
 {{< figure src="/images/padlock.svg" alt="DevOps Compliance Framework" >}}
@@ -20,3 +20,7 @@ The DevSecOps Framework provides:
 * A clear roadmap for a security-based devops implementation
 
 {{< /columns >}}
+
+## SDLC Software Process -->
+
+{{< figure src="/images/sdlcflowchart.png" alt="DevOps Compliance Framework" >}}

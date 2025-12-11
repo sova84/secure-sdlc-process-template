@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 12
 bookFlatSection: false
 title: "Risk Register"
 ---

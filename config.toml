@@ -1,6 +1,6 @@
-baseURL = "https://kosli.com/secure-sdlc-process-template/"
+baseURL = "https://localhost:1313/"
 languageCode = "en-us"
-title = "The Secure SDLC Process Template"
+title = "TESCO - The Eastern Specialty Company"
 theme = "hugo-book"
 
 [taxonomies]
@@ -8,12 +8,12 @@ theme = "hugo-book"
   level = 'levels'
 
 [params]
-  company = 'AcmePay'
-  csor = 'a compliance system of record'
+  company = 'TESCO - The Eastern Specialty Company'
+  csor = 'SDLC'
   vcs = 'git'
   vcsHost = 'github'
   forkLink = 'https://github.com/kosli-dev/devopsctl/fork'
-  logo = 'svg/logo.svg'
+  logo = 'svg/logo.png'
   BookSection = '/'
 
 [markup]
