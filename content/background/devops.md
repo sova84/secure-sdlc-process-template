@@ -72,5 +72,5 @@ The devops principles around culture, automation, lean, measurment and sharing c
 * **Sharing**: makes compliance work visible to empower compliance and security functions
 
 
-[^1]: https://cloud.google.com/devops/state-of-devops
-[^20]: Forsgren PhD, Nicole. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations . IT Revolution Press. Kindle Edition.
+<!-- [^1]: https://cloud.google.com/devops/state-of-devops
+[^20]: Forsgren PhD, Nicole. Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations . IT Revolution Press. Kindle Edition. -->
