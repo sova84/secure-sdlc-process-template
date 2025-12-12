@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 weight: 5
 title: Background
 ---

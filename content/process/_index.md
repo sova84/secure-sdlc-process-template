@@ -1,7 +1,7 @@
 ---
 weight: 22
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 title: "SDCL"
 ---
 
