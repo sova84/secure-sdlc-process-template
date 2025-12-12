@@ -1,6 +1,6 @@
 ---
 weight: 31
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 title: "Controls"
 ---
