@@ -1,6 +1,7 @@
 ---
 weight: 31
-bookFlatSection: false
+bookFlatSection: true
 bookCollapseSection: false
 title: "Coding Practices"
+
 ---
