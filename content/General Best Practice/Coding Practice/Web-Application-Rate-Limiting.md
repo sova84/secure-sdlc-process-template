@@ -1,10 +1,10 @@
 ---
 weight: 10
-title: Secure Design Principles
+title: Web Application Rate Limiting
 ---
 
 
-# Secure Design Principles 
+# Web Application Rate Limiting
 
 ## Overview
 
